@@ -1,4 +1,16 @@
-### Hi there 👋
+<h1 align="center"> Hi there, I'm Brenda! ✌🏽 </h1>
+
+<p align="center"> I'm a B.S. in Computer Science and Technology student at the Tecnológico de Monterrey </p>
+
+<p align="center"> <img src="https://whitehacks.scis.smu.edu.sg/invader.gif"/> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Bren12&color=lightgrey&style=flat"/> </p>
+
+
+
+
+
+
 
 <!--
 **Bren12/Bren12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
