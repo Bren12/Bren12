@@ -2,7 +2,7 @@
 
 <p align="center"> I'm a B.S. in Computer Science and Technology student at the Tecnológico de Monterrey. </p>
 
-<p align="center"> <img src="https://whitehacks.scis.smu.edu.sg/invader.gif" width="300"/> </p>
+<p align="center"> <img src="https://whitehacks.scis.smu.edu.sg/invader.gif" width="250"/> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Bren12&color=lightgrey&style=flat"/> </p>
 
