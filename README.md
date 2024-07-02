@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Brenda! ✌🏽 </h1>
 
-<p align="center"> 🎓 I'm a sixth semester B.S. in Computer Science and Technology student at the Tecnológico de Monterrey. 🎓 </p>
+<p align="center"> 🎓 I'm a recent graduate with a B.S. in Computer Science and Technology from Tecnológico de Monterrey. 🎓 </p>
 
 <p align="center"> ⭐️ I have a great self-taught, creative, analytical, leadership, teamwork and organizational capacity. ⭐️ </p>
 
