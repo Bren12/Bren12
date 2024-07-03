@@ -8,7 +8,7 @@
 
 <p align="center"> 📱 I'm currently learning and deepening about iOS mobile development. 📱 </p>
 
-<p align="center"> <img src="https://whitehacks.scis.smu.edu.sg/invader.gif" width="250"/> </p>
+<p align="center"> <img src="https://github.com/Bren12/Learning-About-HTML-CSS/blob/main/resources/invader.gif?raw=true" width="400"/> </p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/brenda-saucedo/"> LinkedIn </a> <br>
