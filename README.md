@@ -16,7 +16,7 @@ Welcome, curious traveler. You’ve drawn the Ace of Code.
 
 You’ve stumbled upon the personal sanctum of a **Swift-wielding spellcrafter**. 🧝🏽‍♀️ <br>
 Trained as a Computer Science Wizard in the arcane halls of the **Tecnológico de Monterrey**. 🎓 <br>
-Currently refining their magic at the _**Apple Developer Academy**_. 🍎
+Currently refining her magic at the _**Apple Developer Academy**_. 🍎
 
 ☀️  By day, I craft elegant solutions with lines of code. <br>
 🌙  By night, I perfect the art of digital illusion — intuitive interfaces, seamless experiences, and modular magic.
