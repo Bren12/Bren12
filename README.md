@@ -68,9 +68,9 @@ Areas of Enchantment:
 
 > “Magic is just technology we haven't fully understood yet.” Let’s discover it. 🌀
 
-
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-saucedo/)
+[![Institutional Git](https://img.shields.io/badge/-Institutional%20GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/BrendaSaucedo12)
+<img src="https://komarev.com/ghpvc/?username=Bren12&color=red&style=flat"/>
 
 <!--
 <h1 align="center"> Hi there, I'm Brenda! ✌🏽 </h1>
